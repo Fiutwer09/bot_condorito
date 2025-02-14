@@ -6,7 +6,7 @@ const API_KEY_GEMINI = process.env.API_KEY_GEMINI;
 
 const GENERATION_CONFIG = {
     stopSequences: ["red"],
-    maxOutputTokens: 1000,
+    maxOutputTokens: 600,
     temperature: 0.9,
     topP: 0.1,
     topK: 16,

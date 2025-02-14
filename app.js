@@ -50,23 +50,18 @@ app.post('/chat', async (req, res) => {
             return res.status(400).json({ error: "La pregunta es obligatoria." });
         }
 
+        // ✅ Convertimos "chatbot" a "model" para evitar el error
+        history = history.map(entry => ({
+            role: entry.role === "chatbot" ? "model" : entry.role,
+            parts: entry.parts
+        }));
+
         if (history.length === 0) {
             history.push({ role: "user", parts: CONTEXT_MESSAGES.join(" ") });
         }
 
         history.push({ role: "user", parts: question });
 
-        // Buscar en el contexto antes de enviar al modelo
-        const contextResponse = CONTEXT_MESSAGES.find(message => 
-            message.toLowerCase().includes(question.toLowerCase())
-        );
-
-        if (contextResponse) {
-            history.push({ role: "model", parts: contextResponse });
-            return res.status(200).json({ history: history });
-        }
-
-        // Lógica de IA
         const chat = model.startChat({
             history: history,
             generationConfig: GENERATION_CONFIG
@@ -76,14 +71,17 @@ app.post('/chat', async (req, res) => {
         const response = await sendQuestion.response;
         const text = response.text();
 
-        if (!text || text.includes("no hay información")) {
-            const fallbackResponse = "Lo siento, no tengo información sobre eso. ¿Puedo ayudarte con otra cosa?";
-            history.push({ role: "model", parts: fallbackResponse });
-        } else {
-            history.push({ role: "model", parts: text });
-        }
+        let finalResponse = text && !text.includes("no hay información")
+            ? text
+            : "Lo siento, no tengo información sobre eso. ¿Puedo ayudarte con otra cosa?";
 
-        return res.status(200).json({ history: history });
+        history.push({ role: "model", parts: finalResponse });
+
+        return res.status(200).json({
+            answer: finalResponse,
+            history: history
+        });
+
     } catch (error) {
         console.error("❌ Error en el chatbot:", error);
         return res.status(500).json({ error: "Error interno del servidor." });
