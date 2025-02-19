@@ -1,0 +1,911 @@
+    {   
+        "faq_explococora": {
+            "preguntas_frecuentes": [
+        {
+            "pregunta": "Hola",
+            "respuesta": "¡Hola! Soy Condorito, tu asistente virtual de ExploCocora. Estoy aquí para ayudarte con todo lo relacionado con nuestras aventuras en el Valle del Cocora.",
+            "variaciones_pregunta": ["¿Cómo te llamas?", "¿Para qué fuiste creado?", "¿Qué puedes hacer por mí?"]
+        },
+        {
+            "pregunta": "Hi",
+            "respuesta": "¡Hola! Soy Condorito, tu asistente virtual de ExploCocora. Estoy aquí para ayudarte con todo lo relacionado con nuestras aventuras en el Valle del Cocora.",
+            "variaciones_pregunta": ["¿Cómo te llamas?", "¿Para qué fuiste creado?", "¿Qué puedes hacer por mí?"]
+        },
+        {
+            "pregunta": "Buenos días",
+            "respuesta": "¡Hola! Soy Condorito, tu asistente virtual de ExploCocora. Estoy aquí para ayudarte con todo lo relacionado con nuestras aventuras en el Valle del Cocora.",
+            "variaciones_pregunta": ["¿Cómo te llamas?", "¿Para qué fuiste creado?", "¿Qué puedes hacer por mí?"]
+        },
+        {
+            "pregunta": "Buenos tardes",
+            "respuesta": "¡Hola! Soy Condorito, tu asistente virtual de ExploCocora. Estoy aquí para ayudarte con todo lo relacionado con nuestras aventuras en el Valle del Cocora.",
+            "variaciones_pregunta": ["¿Cómo te llamas?", "¿Para qué fuiste creado?", "¿Qué puedes hacer por mí?"]
+        },
+        {
+            "pregunta": "Buenos noches",
+            "respuesta": "¡Hola! Soy Condorito, tu asistente virtual de ExploCocora. Estoy aquí para ayudarte con todo lo relacionado con nuestras aventuras en el Valle del Cocora.",
+            "variaciones_pregunta": ["¿Cómo te llamas?", "¿Para qué fuiste creado?", "¿Qué puedes hacer por mí?"]
+        },
+        {
+            "pregunta": "Buenas",
+            "respuesta": "¡Hola! Soy Condorito, tu asistente virtual de ExploCocora. Estoy aquí para ayudarte con todo lo relacionado con nuestras aventuras en el Valle del Cocora.",
+            "variaciones_pregunta": ["¿Cómo te llamas?", "¿Para qué fuiste creado?", "¿Qué puedes hacer por mí?"]
+        },
+        {
+            "pregunta": "Como te llamas?",
+            "respuesta": "¡Hola! Soy Condorito, tu asistente virtual de ExploCocora. Estoy aquí para ayudarte con todo lo relacionado con nuestras aventuras en el Valle del Cocora.",
+            "variaciones_pregunta": ["¿Cómo te llamas?", "¿Para qué fuiste creado?", "¿Qué puedes hacer por mí?"]
+        },
+        {
+            "pregunta": "Para qué fuiste creado?",
+            "respuesta": "Fui creado para ayudarte a explorar el maravilloso Valle del Cocora. Mi misión es ofrecerte información sobre nuestros paquetes turísticos, caminatas, cabalgatas y la historia de este mágico lugar.",
+            "variaciones_pregunta": ["¿Para qué fuiste creado?", "¿Qué puedes hacer por mí?"]
+        },
+        {
+            "pregunta": "que puedes hacer por mí?",
+            "respuesta": "Puedo responder tus preguntas sobre nuestras actividades, paquetes turísticos, precios, horarios y guías. También puedo contarte sobre la historia del Valle del Cocora y ayudarte a planear tu próxima aventura.",
+            "variaciones_pregunta": ["¿Qué puedes hacer por mí?"]
+        },
+        {
+            "pregunta": "quien te creo?",
+            "respuesta": "Fui diseñado por el equipo de ExploCocora para ofrecerte el mejor soporte y ayudarte a disfrutar al máximo de este hermoso destino en Colombia.",
+            "variaciones_pregunta": ["¿Quién te creo?"]
+        },
+        {
+            "pregunta": "Donde estas ubicado?",
+            "respuesta": "Aunque soy un chatbot, ExploCocora está en el corazón del Valle del Cocora, uno de los lugares más emblemáticos de Colombia. ¡Te invito a visitarnos!",
+            "variaciones_pregunta": ["¿Dónde estás ubicado?", "¿Dónde te encuentras?"]
+        },
+        {
+            "pregunta": [
+                "¿Por qué te llamas Condorito?",
+                "¿Por qué te llamas así?",
+                "¿De dónde viene tu nombre?",
+                "¿Cuál es el origen de tu nombre?"
+            ],
+            "respuesta": {
+                "texto": "Me llamo Condorito en honor al cóndor andino, el ave nacional de Colombia y símbolo emblemático del Valle del Cocora. El cóndor andino es una especie majestuosa que habita en nuestras montañas y representa la grandeza y libertad de nuestra región."
+            }
+        },
+        {
+            "pregunta": "Eres una persona real?",
+            "respuesta": "No, no soy una persona real, pero estoy aquí para ayudarte como si lo fuera. Soy un chatbot diseñado para responder tus preguntas sobre ExploCocora y el Valle del Cocora.",
+            "variaciones_pregunta": ["¿Eres una persona real?", "¿Qué tipo eres?"]
+        },
+        {
+            "pregunta": "Puedes contarme sobre el Valle del Cocora?",
+            "respuesta": "¡Por supuesto! El Valle del Cocora es un lugar mágico en Colombia, famoso por sus majestuosas palmas de cera, las más altas del mundo, y su rica biodiversidad. Es un destino perfecto para caminatas y cabalgatas en contacto con la naturaleza.",
+            "variaciones_pregunta": ["¿Puedes contarme sobre el Valle del Cocora?", "¿Qué es el Valle del Cocora?", "¿Cuál es la historia del Valle del Cocora?"]
+        },
+        {
+            "pregunta": "Cómo puedo comprar un paquete turístico?",
+            "respuesta": "¡Es muy fácil! Solo selecciona el paquete que más te guste en nuestra página, y sigue las instrucciones para reservar. Si necesitas ayuda, aquí estoy para guiarte.",
+            "variaciones_pregunta": ["¿Cómo puedo comprar un paquete turístico?", "¿Cuál es el proceso para reservar un paquete turístico?"]
+        },
+        {
+            "pregunta": "Cuál es tu actividad favorita en ExploCocora?",
+            "respuesta": "Mi actividad favorita es la cabalgata por el valle. Disfrutar de los paisajes montañosos mientras te conectas con la naturaleza es algo que siempre recomiendo.",
+            "variaciones_pregunta": ["¿Cuál es tu actividad favorita en ExploCocora?", "¿Qué actividad te gusta más en ExploCocora?"]
+        },
+        {
+            "pregunta": "Qué hago si tengo un problema con mi reserva?",
+            "respuesta": "No te preocupes, estoy aquí para ayudarte. Puedes darme los detalles de tu problema, o también contactar directamente con nuestro equipo de soporte al cliente. Resolveremos tu inconveniente lo más rápido posible.",
+            "variaciones_pregunta": ["¿Qué hago si tengo un problema con mi reserva?", "¿Cómo puedo resolver un problema con mi reserva?"]
+        },
+        {
+            "pregunta": "Con quién puedo hablar si necesito más ayuda?",
+            "respuesta": "Si necesitas ayuda adicional, nuestro equipo humano está siempre disponible. Solo contáctanos a través del chat o por los datos que aparecen en nuestra página. ¡Estamos para servirte!",
+            "variaciones_pregunta": ["¿Con quién puedo hablar si necesito más ayuda?", "¿Quiénes están disponibles para ayudarme?"]
+        },
+        {
+            "pregunta": "Qué me recomiendas hacer en mi visita al Valle del Cocora?",
+            "respuesta": "Te recomiendo hacer la caminata por la reserva ecológica para disfrutar de las palmas de cera y luego probar una deliciosa trucha típica. ¡No olvides llevar cámara para las fotos!",
+            "variaciones_pregunta": ["¿Qué me recomiendas hacer en mi visita al Valle del Cocora?", "¿Cuál es la mejor actividad para hacer en el Valle del Cocora?"]
+        },
+        {
+            "pregunta": "Puedes hacer bromas?",
+            "respuesta": "¡Claro que sí! Aquí va una: ¿Qué le dijo un caballo cansado a su jinete? \"¡No sigas cabalgando, ya no tengo fuerza para caballos extras!\""
+        },
+        {
+            "pregunta": "Qué idiomas hablas?",
+            "respuesta": "Por ahora hablo español, pero estoy en constante aprendizaje. Si necesitas algo, intentaré ayudarte de la mejor manera posible.",
+            "variaciones_pregunta": ["¿Qué idiomas hablas?", "¿Qué idioma hablas?"]
+        },
+        {
+            "pregunta": "Cuál es tu comida favorita?",
+            "respuesta": "Bueno, como soy un chatbot, no como, pero si pudiera, creo que no me perdería la deliciosa trucha al ajillo que sirven en el Valle del Cocora. ¡Es un plato imperdible!",
+            "variaciones_pregunta": ["¿Cuál es tu comida favorita?", "¿Qué comida te gusta más?"]
+        },
+        {
+            "pregunta": "Puedes guiarme en una caminata?",
+            "respuesta": "¡Me encantaría! Aunque no puedo estar físicamente, puedo darte toda la información que necesitas sobre las rutas, su dificultad, duración y qué debes llevar.",
+            "variaciones_pregunta": ["¿Puedes guiarme en una caminata?", "¿Qué puedo hacer para ayudarte en una caminata?"]
+        },
+        {
+            "pregunta": "Cuáles son los horarios de las actividades?",
+            "respuesta": "Las actividades suelen empezar desde temprano en la mañana, alrededor de las 7:00 AM, y se extienden hasta las 5:00 PM. Sin embargo, depende del paquete que elijas. ¡Pregúntame por uno en específico!",
+            "variaciones_pregunta": ["¿Cuáles son los horarios de las actividades?", "¿Qué hora comienzan las actividades?", "¿Cuándo comienzan las actividades?"]
+        },
+        {
+            "pregunta": "Qué necesito llevar para una caminata?",
+            "respuesta": "Te recomiendo llevar ropa cómoda, calzado resistente para caminatas, protector solar, agua y, si puedes, una chaqueta impermeable. ¡Ah, y no olvides tu cámara para capturar los paisajes!",
+            "variaciones_pregunta": ["¿Qué necesito llevar para una caminata?", "¿Cuáles son los materiales necesarios para una caminata?", "¿Qué cosas debo llevar para una caminata?"]
+        },
+        {
+            "pregunta": "Cuánto dura una cabalgata?",
+            "respuesta": "Las cabalgatas suelen durar entre 1 y 3 horas, dependiendo de la ruta que elijas. Hay opciones para principiantes y también para los más aventureros.",
+            "variaciones_pregunta": ["¿Cuánto dura una cabalgata?", "¿Qué duración tiene una cabalgata?", "¿Cuánto tiempo dura una cabalgata?"]
+        },
+        {
+            "pregunta": "Por qué debería visitar el Valle del Cocora?",
+            "respuesta": "El Valle del Cocora es único en el mundo. Sus palmas de cera, paisajes andinos, biodiversidad y la calidez de su gente lo convierten en un destino inolvidable.",
+            "variaciones_pregunta": ["¿Por qué debería visitar el Valle del Cocora?", "¿Qué es tan especial el Valle del Cocora?", "¿Por qué debería ir al Valle del Cocora?"]
+        },
+        {
+            "pregunta": "Qué animales puedo ver en el Valle del Cocora?",
+            "respuesta": "En el valle puedes encontrar una gran variedad de aves como colibríes y, si tienes suerte, podrías ver un majestuoso cóndor andino. También hay mariposas, osos de anteojos y muchas especies más.",
+            "variaciones_pregunta": ["¿Qué animales puedo ver en el Valle del Cocora?", "¿Cuáles son los animales que puedo ver en el Valle del Cocora?", "¿Qué fauna encuentro en el Valle del Cocora?"]
+        },
+        {
+            "pregunta": "Qué hacer si llueve durante la caminata?",
+            "respuesta": "Si llueve, ¡no te preocupes! Es parte de la experiencia en un valle tan verde y hermoso. Lleva una chaqueta impermeable y disfruta del sonido de la naturaleza bajo la lluvia.",
+            "variaciones_pregunta": ["¿Qué hacer si llueve durante la caminata?", "¿Qué puedo hacer si llueve durante la caminata?"]
+        },
+        {
+            "pregunta": "Cuál es la mejor época para visitar el Valle del Cocora?",
+            "respuesta": "Puedes visitarlo durante todo el año, pero los meses con menos lluvias suelen ser enero, febrero y diciembre. Sin embargo, cada época tiene su encanto.",
+            "variaciones_pregunta": ["¿Cuál es la mejor época para visitar el Valle del Cocora?", "¿Qué época es mejor para visitar el Valle del Cocora?", "¿Cuándo es la mejor época para visitar el Valle del Cocora?"]
+        },
+        {
+            "pregunta": "Cuántas personas pueden ir en un grupo?",
+            "respuesta": "Los grupos pueden variar dependiendo del paquete. Algunos son pequeños, ideales para familias o parejas, mientras que otros permiten grupos más grandes. Pregúntame por los detalles de cada uno.",
+            "variaciones_pregunta": ["¿Cuántas personas pueden ir en un grupo?", "¿Qué tamaño de grupo puedo formar?", "¿Cuántas personas puedo acompañar en el Valle del Cocora?"]
+        },
+        {
+            "pregunta": "Qué pasa si nunca he montado a caballo?",
+            "respuesta": "¡No hay problema! Tenemos caballos entrenados para principiantes y guías expertos que te ayudarán en todo momento para que disfrutes de la experiencia.",
+            "variaciones_pregunta": ["¿Qué pasa si nunca he montado a caballo?", "¿Qué puedo hacer si nunca he montado a caballo?"]
+        },
+        {
+            "pregunta": "Qué tan difícil es la caminata más larga?",
+            "respuesta": "La caminata más larga puede ser desafiante, pero si tienes experiencia y llevas el equipo adecuado, es una aventura que vale la pena. Siempre puedes preguntarme por rutas más fáciles.",
+            "variaciones_pregunta": ["¿Qué tan difícil es la caminata más larga?", "¿Cuánto es difícil la caminata más larga?", "¿Qué dificultad tiene la caminata más larga?"]
+        },
+        {
+            "pregunta": "Puedo llevar a mi mascota?",
+            "respuesta": "¡Claro que sí! El Valle del Cocora es amigable con las mascotas, pero asegúrate de llevar todo lo necesario para su comodidad y seguridad.",
+            "variaciones_pregunta": ["¿Puedo llevar a mi mascota?", "¿Qué debo hacer si llevo a mi mascota al Valle del Cocora?", "¿Qué puedo hacer si llevo a mi mascota al Valle del Cocora?"]
+        },
+        {
+            "pregunta": "Cómo puedo contactarlos directamente?",
+            "respuesta": "Puedes contactarnos a través del formulario en nuestra página web o por WhatsApp. Si necesitas ayuda, puedo proporcionarte los números y horarios de atención.",
+            "variaciones_pregunta": ["¿Cómo puedo contactarlos directamente?", "¿Qué puedo hacer para contactarlos directamente?", "¿Cómo puedo comunicarme con ExploCocora?"]
+        },
+        {
+            "pregunta": "Qué tipo de paquetes turísticos ofrecen?",
+            "respuesta": "Ofrecemos paquetes de caminatas ecológicas, cabalgatas, visitas guiadas y combinaciones que incluyen experiencias gastronómicas y culturales. ¡Dime qué te interesa y te daré más detalles!",
+            "variaciones_pregunta": ["¿Qué tipo de paquetes turísticos ofrecen?", "¿Cuáles son los paquetes turísticos que ofrecen?", "¿Qué paquetes turísticos están disponibles?"]
+        },
+        {
+            "pregunta": "Es seguro montar a caballo?",
+            "respuesta": "¡Claro que sí! Nuestros caballos están bien entrenados y siempre estarás acompañado por un guía experto que se asegurará de que disfrutes con total seguridad.",
+            "variaciones_pregunta": ["¿Es seguro montar a caballo?", "¿Qué puedo hacer para asegurarme de que es seguro montar a caballo?"]
+        },
+        {
+            "pregunta": "Qué sucede si cancelo mi reserva?",
+            "respuesta": "Si necesitas cancelar tu reserva, consulta nuestra política de cancelación en la página web o pregúntame los detalles. Dependiendo del tiempo de antelación, podrías recibir un reembolso parcial o completo.",
+            "variaciones_pregunta": ["¿Qué sucede si cancelo mi reserva?", "¿Qué puedo hacer si cancelo mi reserva?", "¿Cómo puedo cancelar mi reserva?"]
+        },
+        {
+            "pregunta": "Hay descuentos para grupos grandes?",
+            "respuesta": "Sí, ofrecemos descuentos para grupos grandes. Dime cuántas personas están interesadas, y te diré qué promociones están disponibles.",
+            "variaciones_pregunta": ["¿Hay descuentos para grupos grandes?", "¿Qué descuentos hay para grupos grandes?", "¿Cuáles son los descuentos para grupos grandes?"]
+        },
+        {
+            "pregunta": "Qué ropa debo llevar para montar a caballo?",
+            "respuesta": "Te recomiendo usar pantalones largos y calzado cerrado para mayor comodidad. También puedes llevar un sombrero o gorra y protector solar si es un día soleado.",
+            "variaciones_pregunta": ["¿Qué ropa debo llevar para montar a caballo?", "¿Cuál es la ropa adecuada para montar a caballo?", "¿Qué debo llevar para montar a caballo?"]
+        },
+        {
+            "pregunta": "Hay actividades para niños?",
+            "respuesta": "¡Por supuesto! Tenemos actividades y rutas adaptadas para niños, como cabalgatas cortas y caminatas suaves. Además, los guías están capacitados para hacer que sea una experiencia segura y divertida.",
+            "variaciones_pregunta": ["¿Hay actividades para niños?", "¿Qué actividades hay para niños?", "¿Qué puedo hacer con niños en el Valle del Cocora?"]
+        },
+        {
+            "pregunta": "Cómo es el clima en el Valle del Cocora?",
+            "respuesta": "El clima en el Valle del Cocora es fresco y puede cambiar rápidamente. Por lo general, las temperaturas oscilan entre 12°C y 20°C. Te sugiero llevar una chaqueta ligera.",
+            "variaciones_pregunta": ["¿Cómo es el clima en el Valle del Cocora?", "¿Qué clima hay en el Valle del Cocora?", "¿Cuál es el clima en el Valle del Cocora?"]
+        },
+        {
+            "pregunta": "Qué tipo de fauna puedo ver durante la cabalgata?",
+            "respuesta": "Durante las cabalgatas puedes observar aves como colibríes y guacamayas, además de mariposas y, con un poco de suerte, el imponente cóndor andino.",
+            "variaciones_pregunta": ["¿Qué tipo de fauna puedo ver durante la cabalgata?", "¿Cuáles son los animales que puedo ver durante la cabalgata?", "¿Qué fauna encuentro durante la cabalgata?"]
+        },
+        {
+            "pregunta": "Cuánto cuesta un paquete turístico?",
+            "respuesta": "Los precios varían dependiendo del paquete. Dime qué tipo de experiencia buscas y te proporcionaré la información específica.",
+            "variaciones_pregunta": ["¿Cuánto cuesta un paquete turístico?", "¿Qué cuesta un paquete turístico?", "¿Cuánto cuesta la actividad turística?"]
+        },
+        {
+            "pregunta": "Aceptan pagos en línea?",
+            "respuesta": "Sí, puedes pagar de forma segura a través de nuestra página web con tarjeta de crédito, débito o plataformas de pago como PayPal.",
+            "variaciones_pregunta": ["¿Aceptan pagos en línea?", "¿Qué métodos de pago aceptan?", "¿Cómo puedo pagar?"]
+        },
+        {
+            "pregunta": "Qué historia tiene el Valle del Cocora?",
+            "respuesta": "El Valle del Cocora tiene una rica historia como parte del territorio de los Quimbayas, una comunidad indígena. Además, es el hogar de la palma de cera, declarada árbol nacional de Colombia. ¡Te puedo contar más si lo deseas!",
+            "variaciones_pregunta": ["¿Qué historia tiene el Valle del Cocora?", "¿Cuál es la historia del Valle del Cocora?", "¿Qué es la historia del Valle del Cocora?"]
+        },
+        {
+            "pregunta": "Hay lugares para comer en el Valle del Cocora?",
+            "respuesta": "Sí, cerca del valle encontrarás restaurantes donde sirven platos típicos como la trucha, arepas y chocolate caliente. ¡Una delicia para después de la aventura!",
+            "variaciones_pregunta": ["¿Hay lugares para comer en el Valle del Cocora?", "¿Dónde puedo comer en el Valle del Cocora?", "¿Qué restaurantes hay en el Valle del Cocora?"]
+        },
+        {
+            "pregunta": [
+                "¿Qué debo llevar para el recorrido?",
+                "¿Qué implementos necesito?",
+                "¿Qué ropa debo usar?",
+                "¿Qué se recomienda llevar?",
+                "¿Qué necesito para la caminata?",
+                "¿Qué necesito para la cabalgata?",
+                "¿Qué elementos debo traer?",
+                "¿Qué no debo olvidar llevar?",
+                "¿Qué equipo necesito?",
+                "¿Cómo debo ir vestido?"
+            ],
+            "respuesta": {
+                "texto": "Te recomendamos llevar: ropa cómoda, zapatos cerrados o botas para caminata/cabalgata, protector solar, gorra o sombrero, chaqueta impermeable (el clima puede cambiar), agua, cámara fotográfica y documentos personales. Todo el equipo de seguridad para la cabalgata lo proporcionamos nosotros."
+            }
+        },
+        {
+            "pregunta": [
+                "¿Cuál es el mejor horario para visitar?",
+                "¿A qué hora abren?",
+                "¿A qué hora cierran?",
+                "¿Cuál es el horario de atención?",
+                "¿Cuándo es mejor ir?",
+                "¿En qué horario hay mejor clima?",
+                "¿Cuál es la mejor hora para empezar el recorrido?",
+                "¿A qué hora salen los tours?",
+                "¿Cuál es el último horario disponible?",
+                "¿Tienen horario específico para las rutas?"
+            ],
+            "respuesta": {
+                "texto": "Nuestro horario de atención es de 7:00 AM a 5:00 PM todos los días. Recomendamos iniciar los recorridos en la mañana, entre 7:00 AM y 11:00 AM, cuando el clima suele ser más favorable y hay mejor visibilidad para disfrutar los paisajes."
+            }
+        },
+        {
+            "pregunta": [
+                "¿Cómo llego al Valle del Cocora?",
+                "¿Dónde están ubicados?",
+                "¿Cómo puedo llegar?",
+                "¿Qué transporte puedo tomar?",
+                "¿Tienen servicio de transporte?",
+                "¿Cómo llego desde Salento?",
+                "¿Hay buses disponibles?",
+                "¿Tienen punto de encuentro?",
+                "¿Dónde los encuentro?",
+                "Necesito indicaciones para llegar"
+            ],
+            "respuesta": {
+                "texto": "Estamos ubicados en el Valle del Cocora, a 11 km de Salento. Puedes llegar en Willys (jeeps tradicionales) desde la plaza principal de Salento, que salen cada hora desde las 6:30 AM hasta las 5:00 PM. También puedes llegar en vehículo particular siguiendo las señalizaciones desde Salento. Nuestro punto de encuentro está en la entrada principal del Valle del Cocora, donde encontrarás nuestro centro de atención."
+            }
+        },
+        {
+            "pregunta": [
+                "¿Aceptan mascotas?",
+                "¿Puedo llevar a mi perro?",
+                "¿Se permiten mascotas?",
+                "¿Las mascotas pueden hacer el recorrido?",
+                "¿Mi mascota puede acompañarnos?",
+                "¿Es pet friendly?",
+                "¿Admiten perros en los recorridos?",
+                "¿Las mascotas pueden ir a caballo?",
+                "¿Hay restricciones para mascotas?",
+                "¿Qué requisitos hay para llevar mascotas?"
+            ],
+            "respuesta": {
+                "texto": "Sí, aceptamos mascotas en los recorridos a pie, siempre que estén con correa y sean supervisadas por sus dueños. Por seguridad, no se permiten mascotas en las cabalgatas. Recomendamos traer agua y bolsas para recoger los desechos de tu mascota."
+            }
+        },
+        {
+            "pregunta": [
+                "¿Qué medidas de seguridad tienen?",
+                "¿Es seguro el recorrido?",
+                "¿Qué pasa en caso de emergencia?",
+                "¿Tienen seguro contra accidentes?",
+                "¿Hay personal médico?",
+                "¿Cómo garantizan la seguridad?",
+                "¿Tienen protocolos de emergencia?",
+                "¿Qué tan seguros son los caballos?",
+                "¿Hay riesgos en los recorridos?",
+                "¿Tienen botiquín de primeros auxilios?"
+            ],
+            "respuesta": {
+                "texto": "Tu seguridad es nuestra prioridad. Contamos con guías certificados, equipos de seguridad completos, protocolos de emergencia establecidos, botiquines de primeros auxilios y comunicación permanente con servicios de emergencia. Nuestros caballos están entrenados y son revisados regularmente por veterinarios. Además, proporcionamos una charla de seguridad antes de cada recorrido y seguro contra accidentes incluido en el precio."
+            }
+        },
+        {
+            "pregunta": [
+                "¿Cuáles son las rutas disponibles?",
+                "Muéstrame todas las rutas",
+                "¿Qué rutas tienen?",
+                "¿Cuáles son los recorridos disponibles?",
+                "Quiero conocer las rutas",
+                "¿Qué rutas ofrecen?"
+            ],
+            "respuesta": {
+                "texto": "Tenemos 12 rutas disponibles tanto a caballo como caminando: Planchón, Peña de la Virgen, Mirador de Camino, Mirador del Camino y Ríos, Casa la Esperanza, Mirador del Camino y Peña de la Virgen, Mirador de Palmas, Mirador de Camino y Palmas, Mirador del Cóndor, Camino, Palmas y Río, Camino, Palmas y Peña, y Camino, Palmas, Cóndor y Peña. Todas las rutas pueden ser realizadas a caballo o a pie, según la preferencia del visitante."
+            }
+        },
+        {
+            "pregunta": [
+                "¿Cuánto tiempo dura cada ruta?",
+                "Dame la duración de las rutas",
+                "¿Cuánto se tarda cada recorrido?",
+                "¿Cuál es el tiempo de cada ruta?",
+                "¿Qué duración tienen las rutas?",
+                "¿Me puedes decir el tiempo de cada tour?",
+                "¿Cuántas horas dura cada ruta?",
+                "¿Cuánto demora cada recorrido?",
+                "Tiempo de duración de las rutas",
+                "¿Qué tan largas son las rutas?",
+                "Tiempos de cada recorrido",
+                "¿Cuánto debo planear para cada ruta?",
+                "¿Cuál es el tiempo estimado por ruta?",
+                "¿Cuánto dura cada ruta si voy a caballo o caminando?"
+            ],
+            "respuesta": {
+                "texto": "Cada ruta, ya sea a caballo o caminando, tiene una duración específica: Planchón: 30 min, Peña de la Virgen: 1 hora, Mirador de Camino: 1 hora, Mirador del Camino y Ríos: 1 hora 30 min, Casa la Esperanza: 1 hora 50 min, Mirador del Camino y Peña de la Virgen: 1 hora 50 min, Mirador de Palmas: 1 hora 40 min, Mirador de Camino y Palmas: 2 horas, Mirador del Cóndor: 2 horas, Camino, Palmas y Río: 2 horas 15 min, Camino, Palmas y Peña: 2 horas 30 min, Camino, Palmas, Cóndor y Peña: 4 horas 30 min."
+                }
+            },
+        {
+            "pregunta": [
+                "¿Cuánto cuesta cada ruta?",
+                "Dame los precios de los recorridos",
+                "¿Cuáles son los precios de las rutas?",
+                "Muéstrame los costos de los tours",
+                "¿Qué precio tiene cada recorrido?",
+                "Quiero saber los precios de las rutas",
+                "¿Cuánto vale cada tour?",
+                "¿Qué tarifas manejan?",
+                "Precios de los recorridos",
+                "¿Cuál es el costo por ruta?",
+                "¿Cuánto debo pagar por cada ruta?",
+                "Valor de los recorridos",
+                "¿Cuánto cuestan los tours?",
+                "Necesito saber los precios",
+                "¿Cuál es el valor de cada ruta?",
+                "¿Qué precios tienen los tours?",
+                "Información de precios",
+                "¿Cuánto valen los recorridos?",
+                "Costos de las rutas",
+                "Tarifas de los tours",
+                "¿Cuál es el precio por persona?",
+                "¿Cuánto cuesta cada ruta a caballo o caminando?",
+                "Dame los precios de las rutas a caballo y/o a pie",
+                "Muéstrame los precios por persona de cada ruta",
+                "¿Cuánto me cuesta una ruta a caballo o caminando?"
+            ],
+            "respuesta": {
+                "texto": "Los precios de cada ruta son los siguientes: Planchón (30 min): 1 persona 60.000 COP, 2 personas 110.000 COP, 3 personas 150.000 COP, 4 personas 180.000 COP, 5 personas 210.000 COP, 6 personas 240.000 COP. Peña de la Virgen (1 hora): 1 persona 80.000 COP, 2 personas 120.000 COP, 3 personas 160.000 COP, 4 personas 200.000 COP, 5 personas 240.000 COP, 6 personas 280.000 COP. Mirador de Camino (1 hora): 1 persona 90.000 COP, 2 personas 160.000 COP, 3 personas 210.000 COP, 4 personas 250.000 COP, 5 personas 290.000 COP, 6 personas 320.000 COP. Mirador del Camino y Ríos (1 hora 30 min): 1 persona 120.000 COP, 2 personas 180.000 COP, 3 personas 250.000 COP, 4 personas 300.000 COP, 5 personas 350.000 COP, 6 personas 400.000 COP. Casa la Esperanza (1 hora 50 min): 1 persona 140.000 COP, 2 personas 180.000 COP, 3 personas 220.000 COP, 4 personas 270.000 COP, 5 personas 330.000 COP, 6 personas 390.000 COP. Mirador del Camino y Peña de la Virgen (1 hora 50 min): 1 persona 140.000 COP, 2 personas 220.000 COP, 3 personas 280.000 COP, 4 personas 360.000 COP, 5 personas 420.000 COP, 6 personas 490.000 COP. Mirador de Palmas (1 hora 40 min): 1 persona 140.000 COP, 2 personas 240.000 COP, 3 personas 280.000 COP, 4 personas 330.000 COP, 5 personas 380.000 COP, 6 personas 440.000 COP. Mirador de Camino y Palmas (2 horas): 1 persona 160.000 COP, 2 personas 270.000 COP, 3 personas 340.000 COP, 4 personas 370.000 COP, 5 personas 440.000 COP, 6 personas 520.000 COP. Mirador del Cóndor (2 horas): 1 persona 200.000 COP, 2 personas 280.000 COP, 3 personas 360.000 COP, 4 personas 460.000 COP, 5 personas 540.000 COP, 6 personas 620.000 COP. Camino, Palmas y Río (2 horas 15 min): 1 persona 200.000 COP, 2 personas 300.000 COP, 3 personas 400.000 COP, 4 personas 500.000 COP, 5 personas 600.000 COP, 6 personas 700.000 COP. Camino, Palmas y Peña (2 horas 30 min): 1 persona 250.000 COP, 2 personas 350.000 COP, 3 personas 450.000 COP, 4 personas 550.000 COP, 5 personas 650.000 COP, 6 personas 750.000 COP. Camino, Palmas, Cóndor y Peña (4 horas 30 min): 1 persona 400.000 COP, 2 personas 600.000 COP, 3 personas 800.000 COP, 4 personas 1.000.000 COP, 5 personas 1.200.000 COP, 6 personas 1.400.000 COP. La tarifa de entrada es 20.000 COP para todas las rutas excepto Camino, Palmas, Cóndor y Peña, que cuesta 40.000 COP."
+                }
+            }
+        ],
+        "preguntas_sobre_rutas": [
+            {
+            "pregunta": "¿Qué incluye la ruta a la Peña de la Virgen?",
+            "respuesta": {
+            "texto": "Incluye la cabalgata guiada por el camino hacia la Peña de la Virgen. El precio depende de la cantidad de personas:",
+            "precios": {
+                "1_persona": 100000,
+                "2_personas": 150000,
+                "3_personas": 200000,
+                "4_personas": 250000,
+                "5_personas": 280000
+            }
+            },
+            "variaciones_pregunta": [
+            "¿Qué servicios incluye la Peña de la Virgen?",
+            "¿Qué ofrece el tour a la Peña de la Virgen?",
+            "¿Cuánto cuesta ir a la Peña de la Virgen?"
+            ]
+        },
+        {
+            "pregunta": "¿Qué es el Mirador de Cocora y cuánto cuesta?",
+            "respuesta": {
+            "descripcion": "Es una ruta que te lleva a un mirador con vistas espectaculares del Valle del Cocora",
+            "precios": {
+                "1_persona": 100000,
+                "2_personas": 130000,
+                "3_personas": 170000,
+                "4_personas": 200000,
+                "5_personas": 290000
+            },
+            "nota_adicional": "No incluye la entrada, que tiene un costo adicional de 20000"
+            },
+            "variaciones_pregunta": [
+            "¿Cuánto vale la ruta al Mirador de Cocora?",
+            "¿Qué precio tiene el tour al Mirador de Cocora?",
+            "Información sobre el Mirador de Cocora"
+            ]
+        },
+        {
+            "pregunta": "¿Qué incluye la ruta combinada de Mirador del Camino y Peña de la Virgen?",
+            "respuesta": {
+            "duracion": "1 hora y 40 minutos",
+            "descripcion": "Incluye la visita a ambos lugares, disfrutando de las vistas y paisajes del Valle",
+            "precios": {
+                "1_persona": 140000,
+                "2_personas": 200000,
+                "3_personas": 300000,
+                "4_personas": 400000,
+                "5_personas": 500000
+            },
+            "nota_adicional": "No incluye entrada de 20000"
+            },
+            "variaciones_pregunta": [
+            "¿Cuánto cuesta la ruta combinada?",
+            "Precio del tour Mirador y Peña",
+            "¿Qué incluye el combo Mirador y Peña?"
+            ]
+        },
+        {
+            "pregunta": "¿Cuál es el precio para la ruta al Mirador del Cóndor?",
+            "respuesta": {
+            "duracion": "2 horas",
+            "precios": {
+                "1_persona": 200000,
+                "2_personas": 350000,
+                "3_personas": 400000,
+                "4_personas": 500000,
+                "5_personas": 600000
+            },
+            "nota_adicional": "No incluye entrada de 20000"
+            },
+            "variaciones_pregunta": [
+            "¿Cuánto vale ir al Mirador del Cóndor?",
+            "Precio del tour al Cóndor",
+            "¿Qué cuesta la ruta del Cóndor?"
+            ]
+        },
+        {
+            "pregunta": "¿Los precios incluyen la entrada al mirador o peaje?",
+            "respuesta": {
+            "texto": "No, los precios no incluyen la entrada. Esta tiene un costo adicional de 20000 o 40000, dependiendo de la ruta.",
+            "costos_adicionales": {
+                "entrada_standard": 20000,
+                "entrada_extendida": 40000
+            }
+            },
+            "variaciones_pregunta": [
+            "¿Hay que pagar entrada adicional?",
+            "¿El precio incluye el peaje?",
+            "¿Cuánto cuesta la entrada?"
+            ]
+        },
+        {
+            "pregunta": "¿Qué ruta dura más tiempo?",
+            "respuesta": {
+            "texto": "La ruta más larga es la de Comino, Palmas, Cóndor y Peña, con una duración de 4 horas y 30 minutos.",
+            "ruta": "Comino, Palmas, Cóndor y Peña",
+            "duracion": "4 horas y 30 minutos"
+            },
+            "variaciones_pregunta": [
+            "¿Cuál es la ruta más larga?",
+            "¿Cuál es el recorrido más largo?",
+            "¿Qué tour dura más?"
+            ]
+        },
+        {
+            "pregunta": "¿Cuál es la ruta más corta?",
+            "respuesta": {
+            "texto": "La ruta más corta es al Planchón, con una duración de 30 minutos.",
+            "ruta": "El Planchón",
+            "duracion": "30 minutos"
+            },
+            "variaciones_pregunta": [
+            "¿Qué ruta toma menos tiempo?",
+            "¿Cuál es el recorrido más corto?",
+            "¿Cuál es la ruta más rápida?"
+            ]
+        },
+        {
+            "pregunta": "¿Puedo hacer solo caminatas sin caballos?",
+            "respuesta": {
+            "texto": "Claro, puedes consultar a los guías en el lugar para ver opciones de caminatas sin caballos."
+            },
+            "variaciones_pregunta": [
+            "¿Hay opciones sin caballo?",
+            "¿Se puede hacer caminando?",
+            "¿Es necesario montar a caballo?"
+            ]
+        },
+        {
+            "pregunta": "¿Qué ruta recomiendas para tomar fotos del paisaje?",
+            "respuesta": {
+            "texto": "Todas las rutas tienen paisajes increíbles, pero las mejores para fotografías son:",
+            "rutas_recomendadas": [
+                "Mirador de Cocora",
+                "Mirador del Cóndor",
+                "Comino, Palmas y Río"
+            ]
+            },
+            "variaciones_pregunta": [
+            "¿Cuál es la mejor ruta para fotografía?",
+            "¿Dónde puedo tomar las mejores fotos?",
+            "Mejores vistas para fotos"
+            ]
+        },
+        {
+            "pregunta": "¿Puedo hacer estas rutas con niños pequeños?",
+            "respuesta": {
+            "texto": "Sí, pero es recomendable que elijas rutas más cortas como el Planchón o el Mirador de Cocora.",
+            "rutas_recomendadas": [
+                "El Planchón",
+                "Mirador de Cocora"
+            ]
+            },
+            "variaciones_pregunta": [
+            "¿Es apto para niños?",
+            "¿Qué rutas son buenas para familias?",
+            "¿Pueden ir niños pequeños?"
+            ]
+        }
+        ],
+        "Rutas de Cabalgata y Caminata": [
+        {
+            "pregunta": "¿Cuántas rutas de cabalgata existen en el Valle del Cocora?",
+            "respuesta": "Disponemos de 10 rutas de cabalgata diferentes, cada una con una duración y características únicas para adaptarse a tus intereses.",
+            "variaciones_pregunta": [
+                "¿Cuántas rutas de cabalgata hay?",
+                "¿Cuántas rutas tienen?",
+                "¿Cuántas rutas de cabalgata existen?",
+                "¿Cuántas rutas hay en ExploCocora?"
+            ]
+        },
+        {
+            "pregunta": "¿Qué incluye la ruta al Mirador del Camino y Palmas?",
+            "respuesta": "Esta ruta incluye vistas panorámicas desde el Mirador del Camino y una experiencia en las famosas Palmas de Cera.",
+            "precios": {
+            "1_persona": 180000,
+            "2_personas": 260000,
+            "3_personas": 380000,
+            "4_personas": 460000,
+            "5_personas": 540000
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el costo para 4 personas en la ruta Comino, Palmas y Peña?",
+            "respuesta": "El precio para 4 personas en esta ruta es de 600.000. Incluye vistas impresionantes y una experiencia enriquecedora en el valle."
+        },
+        {
+            "pregunta": "¿Cuántas caballerizas tienen y cuántos guías turísticos están disponibles?",
+            "respuesta": "Contamos con 5 caballerizas y más de 70 guías turísticos altamente capacitados para garantizar una experiencia segura y agradable."
+        },
+        {
+            "pregunta": "¿Tienen asistencia médica en caso de emergencias?",
+            "respuesta": "Sí, ofrecemos asistencia médica para cualquier emergencia durante tu recorrido. La seguridad y bienestar de nuestros visitantes es nuestra prioridad."
+        },
+        {
+            "pregunta": "¿Dónde puedo encontrar un buen restaurante en el Valle del Cocora?",
+            "respuesta": "Te recomendamos el Eco Hotel Las Palmas de Cocora, conocido por su excelente gastronomía y vistas impresionantes del valle."
+        },
+        {
+            "pregunta": "¿Cuál es el precio de la entrada para los miradores?",
+            "respuesta": "La entrada a los miradores tiene un costo adicional de 20.000 o 40.000, dependiendo de la ruta que elijas."
+        },
+        {
+            "pregunta": "¿Qué opciones de pago aceptan?",
+            "respuesta": "Aceptamos pagos en efectivo y tarjetas de crédito/débito. También puedes realizar pagos por transferencia bancaria."
+        },
+        {
+            "pregunta": "¿Qué ruta es mejor para ver la fauna local?",
+            "respuesta": "La ruta Comino, Palmas y Río es excelente para observar la fauna local, ya que combina diferentes ecosistemas donde habitan diversas especies."
+        },
+        {
+            "pregunta": "¿Puedo reservar una ruta con antelación?",
+            "respuesta": "Sí, puedes hacer reservas anticipadas a través de nuestra página web o contactando directamente con nosotros. Esto garantiza tu lugar y una mejor planificación de tu visita."
+        },
+        {
+            "pregunta": "¿Hay descuentos para grupos grandes o escolares?",
+            "respuesta": "Ofrecemos descuentos especiales para grupos grandes y visitas escolares. Por favor, contáctanos para más detalles y condiciones."
+        },
+        {
+            "pregunta": "¿Cuál es la ruta más popular y cuánto tiempo dura?",
+            "respuesta": "La ruta más popular es la de Mirador del Camino y Peña de la Virgen, con una duración de 1 hora y 40 minutos, que combina vistas impresionantes y una experiencia cultural."
+        },
+        {
+            "pregunta": "¿Puedo hacer varias rutas en un solo día?",
+            "respuesta": "Sí, puedes combinar varias rutas en un solo día. Te recomendamos planificar con antelación para maximizar tu experiencia."
+        },
+        {
+            "pregunta": "¿Qué debo llevar para una cabalgata?",
+            "respuesta": "Te recomendamos llevar ropa cómoda, protector solar, agua, y una cámara para capturar los paisajes. También es importante usar calzado adecuado para cabalgatas."
+        },
+        {
+            "pregunta": "¿Cuál es la mejor época del año para visitar el Valle del Cocora?",
+            "respuesta": "El Valle del Cocora se puede visitar durante todo el año, pero la mejor época es durante la temporada seca (diciembre a marzo) para disfrutar de un clima más estable y vistas despejadas."
+        },
+        {
+            "pregunta": "¿Ofrecen equipo de protección para las cabalgatas?",
+            "respuesta": "Sí, proporcionamos cascos y otros equipos de seguridad necesarios para garantizar una experiencia segura durante la cabalgata.",
+            "variaciones_pregunta": [
+                "¿Dan equipos de seguridad?",
+                "¿Qué equipo de protección proporcionan?",
+                "¿Incluye equipo de seguridad?",
+                "¿Tengo que llevar mi propio equipo de protección?",
+                "¿Proveen cascos para montar?",
+                "¿Qué implementos de seguridad ofrecen?",
+                "¿Hay equipo de protección disponible?",
+                "¿Cómo garantizan la seguridad en las cabalgatas?",
+                "¿Qué elementos de protección dan?",
+                "¿Debo traer mi propio casco?"
+            ]
+        },
+        {
+            "pregunta": "¿Las rutas son adecuadas para principiantes?",
+            "respuesta": "Sí, muchas de nuestras rutas están diseñadas para principiantes. Además, nuestros guías te acompañarán en todo momento para asegurarse de que te sientas cómodo y seguro.",
+            "variaciones_pregunta": [
+                "¿Puedo ir si nunca he montado a caballo?",
+                "¿Hay rutas para novatos?",
+                "¿Se necesita experiencia previa?",
+                "Nunca he montado, ¿puedo participar?",
+                "¿Son seguras las rutas para principiantes?",
+                "¿Qué tan difíciles son las rutas?",
+                "¿Hay rutas para personas sin experiencia?",
+                "¿Es apto para quien nunca ha montado?",
+                "¿Necesito saber montar a caballo?",
+                "¿Hay guías para principiantes?"
+            ]
+        },
+        {
+            "pregunta": "¿Tienen áreas de descanso durante las rutas?",
+            "respuesta": "Sí, todas nuestras rutas incluyen paradas en puntos estratégicos donde podrás descansar, disfrutar del paisaje y tomar fotografías.",
+            "variaciones_pregunta": [
+                "¿Hay lugares para descansar en el camino?",
+                "¿Dónde se puede parar a descansar?",
+                "¿Hacen paradas durante el recorrido?",
+                "¿Hay puntos de parada en las rutas?",
+                "¿Se puede descansar durante el tour?",
+                "¿Existen zonas de descanso?",
+                "¿Cada cuánto se hace una parada?",
+                "¿Hay sitios para tomar un break?",
+                "¿Se puede parar a tomar fotos?",
+                "¿Tienen miradores para descansar?"
+            ]
+        },
+        {
+            "pregunta": "¿Hay alguna actividad especial para familias o niños?",
+            "respuesta": "Sí, tenemos actividades familiares como paseos cortos y seguros para niños, y talleres interactivos donde los más pequeños pueden aprender sobre la naturaleza de una manera divertida.",
+            "variaciones_pregunta": [
+                "¿Qué actividades hay para niños?",
+                "¿Es apto para familias con niños?",
+                "¿Tienen programas familiares?",
+                "¿Puedo llevar niños pequeños?",
+                "¿Qué opciones hay para familias?",
+                "¿Hay tours familiares?",
+                "¿Son seguras las actividades para niños?",
+                "¿Qué edad mínima debe tener un niño?",
+                "¿Tienen guías especializados en niños?",
+                "¿Hay rutas especiales para familias?",
+                "¿Qué actividades recomiendan para niños?",
+                "¿Es seguro para los más pequeños?"
+            ]
+        },
+        {
+            "pregunta": "¿Qué normativas ambientales sigue ExploCocora?",
+            "respuesta": "Cumplimos con la Ley 99 de 1993 y la Resolución 0764 de 2007 para la preservación y manejo sostenible del entorno natural.",
+            "variaciones_pregunta": [
+                "¿Cómo cuidan el medio ambiente?",
+                "¿Qué hacen por la conservación?",
+                "¿Tienen políticas ambientales?",
+                "¿Cómo protegen la naturaleza?",
+                "¿Qué medidas toman para cuidar el ambiente?",
+                "¿Son una empresa eco-friendly?",
+                "¿Cumplen con normas ambientales?",
+                "¿Qué hacen por el ecosistema?",
+                "¿Tienen certificaciones ambientales?",
+                "¿Cómo contribuyen al cuidado del valle?"
+            ]
+        }
+        ],
+        "metadata": {
+        "total_preguntas": 20,
+        "categorias": [
+            "rutas",
+            "precios",
+            "servicios",
+            "seguridad",
+            "actividades",
+            "recomendaciones",
+            "logística"
+        ],
+        "titulo": "contexto_explococora",
+        "preguntas": [
+            {
+                "pregunta": [
+                "que es explococora",
+                "que hace explococora",
+                "cual es explococora",
+                "me puedes decir que es explococora",
+                "quiero saber que es explococora"
+                ],
+                "respuesta": "explococora es un innovador aplicativo web disenado para facilitar la planificacion de experiencias turisticas sostenibles en el valle de cocora. combina caminatas y cabalgatas con rutas ecologicas cuidadosamente seleccionadas."
+            },
+            {
+                "pregunta": [
+                "cual es el proposito de explococora",
+                "para que sirve explococora",
+                "que objetivo tiene explococora",
+                "que busca explococora",
+                "cual es la mision de explococora"
+                ],
+                "respuesta": "promover la exploracion responsable del valle de cocora, facilitar la gestion de recursos turisticos y contribuir activamente a la preservacion ambiental."
+            },
+            {
+                "pregunta": [
+                "hay restricciones para montar a caballo",
+                "quien puede montar a caballo",
+                "los ninos pueden montar a caballo",
+                "hay limites para cabalgar",
+                "puedo montar a caballo si tengo problemas medicos"
+                ],
+                "respuesta": "si, por razones de seguridad, recomendamos que los ninos pequenos monten con un adulto y que las personas con ciertas condiciones medicas consulten antes de realizar la actividad."
+            },
+            {
+                "pregunta": [
+                "que hago si llego tarde a mi reserva",
+                "que pasa si me atraso en mi reserva",
+                "que hago si no llego a tiempo",
+                "si llego tarde puedo reprogramar",
+                "que sucede si no llego puntual"
+                ],
+                "respuesta": "si llegas tarde, intenta avisarnos lo antes posible. haremos nuestro mejor esfuerzo para reprogramar tu actividad, aunque depende de la disponibilidad."
+            },
+            {
+                "pregunta": [
+                "cuantas personas pueden ir en un grupo",
+                "cual es el tamano maximo de un grupo",
+                "cuantas personas caben en un grupo",
+                "hay limite de personas por grupo",
+                "que tan grande puede ser un grupo"
+                ],
+                "respuesta": "los grupos varian segun la actividad. para cabalgatas, manejamos grupos de hasta 8 personas por guia, y para caminatas, pueden ser un poco mas grandes. dime el tamano de tu grupo, y ajustamos todo."
+            },
+            {
+                "pregunta": [
+                "que pasa si llueve durante la actividad",
+                "y si llueve en el valle del cocora",
+                "se cancela si llueve",
+                "hay actividades si llueve",
+                "que hago si llueve durante el paseo"
+                ],
+                "respuesta": "el valle del cocora es magico bajo la lluvia! te recomendamos traer una chaqueta impermeable. si las condiciones son extremas, podemos reprogramar tu actividad sin problema."
+            },
+            {
+                "pregunta": [
+                "que incluye la visita guiada",
+                "que me ofrecen en la visita",
+                "que hay en el tour guiado",
+                "que me cuentan en la visita",
+                "que informacion dan en la visita"
+                ],
+                "respuesta": "incluye informacion sobre la flora, fauna, historia del valle y datos interesantes de la cultura local. nuestros guias son expertos y apasionados!"
+            },
+            {
+                "pregunta": [
+                "que edad tienen los caballos",
+                "los caballos son jovenes",
+                "los caballos son adultos",
+                "que edad tienen los animales",
+                "cual es la edad de los caballos"
+                ],
+                "respuesta": "nuestros caballos tienen edades variadas, pero todos son adultos bien entrenados, acostumbrados a las rutas y cuidados con mucho carino."
+            },
+            {
+                "pregunta": [
+                "que idiomas hablan los guias",
+                "los guias hablan ingles",
+                "en que idioma hablan los guias",
+                "hay guias bilingues",
+                "puedo pedir un guia en otro idioma"
+                ],
+                "respuesta": "la mayoria de nuestros guias hablan espanol, y algunos tambien hablan ingles. si necesitas un guia en otro idioma, hazmelo saber para coordinarlo."
+            },
+            {
+                "pregunta": [
+                "cual es la mejor epoca para visitar el valle del cocora",
+                "cuando es mejor ir al valle del cocora",
+                "cual es la temporada ideal para visitar",
+                "que meses son mejores para ir",
+                "cuando recomiendan visitar el valle"
+                ],
+                "respuesta": "puedes visitarlo durante todo el ano. sin embargo, la temporada seca entre diciembre y marzo es ideal si prefieres menos lluvias."
+            },
+            {
+                "pregunta": [
+                "que tipo de actividades ofrece explococora",
+                "que actividades hay en explococora",
+                "que puedo hacer en explococora",
+                "que actividades se pueden hacer",
+                "explococora ofrece cabalgatas"
+                ],
+                "respuesta": "explococora ofrece caminatas y cabalgatas a traves de rutas ecologicas, disenadas para mostrar la belleza natural del valle de cocora."
+            },
+            {
+                "pregunta": [
+                "como puedo reservar un paquete turistico",
+                "donde hago una reserva",
+                "como reservo en explococora",
+                "puedo hacer una reserva online",
+                "como hago una reserva para las actividades"
+                ],
+                "respuesta": "puedes realizar la reserva directamente desde nuestra pagina web, donde encontraras informacion detallada sobre las rutas, disponibilidad y precios."
+            },
+            {
+                "pregunta": [
+                "explococora trabaja con guias locales",
+                "los guias son de la zona",
+                "trabajan con operadores locales",
+                "los guias son locales",
+                "explococora colabora con locales"
+                ],
+                "respuesta": "si, colaboramos con guias y operadores turisticos locales para garantizar una experiencia autentica, segura y enriquecedora."
+            },
+            {
+                "pregunta": [
+                "quienes estan detras del proyecto explococora",
+                "quien creo explococora",
+                "quien hace parte de explococora",
+                "cual es el equipo de explococora",
+                "quien dirige explococora"
+                ],
+                "respuesta": "el equipo esta compuesto por jhojan camilo gonzalez cardona como scrum master, andres felipe gonzalez cardona como product owner, y un equipo de desarrollo conformado por brayan stiven gutierrez higuita, johana valentina orlas pachon y gabriel rubio suarez."
+            },
+            {
+                "pregunta": [
+                "que papel desempena la fundacion aso palmas en este proyecto",
+                "que hace la fundacion aso palmas",
+                "cual es el rol de aso palmas",
+                "aso palmas participa en explococora",
+                "aso palmas colabora con explococora"
+                ],
+                "respuesta": "la fundacion aso palmas actua como cliente principal y proporciona las reglas de negocio necesarias para desarrollar el sistema."
+            },
+            {
+                "pregunta": [
+                "explococora cumple con la ley de proteccion de datos",
+                "cumplen con la ley 1581 de 2012",
+                "mis datos estan protegidos",
+                "explococora protege mis datos",
+                "siguen la ley de proteccion de datos"
+                ],
+                "respuesta": "si, explococora cumple con la ley 1581 de 2012 para proteger los datos personales de los usuarios."
+            },
+            {
+                "pregunta": [
+                "como garantiza explococora el bienestar animal",
+                "cumplen con la ley 1774 de 2016",
+                "los caballos son bien cuidados",
+                "siguen normas de bienestar animal",
+                "cuidan a los animales"
+                ],
+                "respuesta": "seguimos las disposiciones de la ley 1774 de 2016 y la ley 84 de 1989 para asegurar que los caballos utilizados en nuestras rutas ecologicas reciban un trato adecuado."
+            },
+            {
+                "pregunta": [
+                "que normativas ambientales sigue explococora",
+                "cumplen con leyes ambientales",
+                "siguen la ley 99 de 1993",
+                "explococora respeta el medio ambiente",
+                "que normas ambientales cumplen"
+                ],
+                "respuesta": "cumplimos con la ley 99 de 1993 y la resolucion 0764 de 2007 para la preservacion y manejo sostenible del entorno natural."
+            }
+        ],
+        "idioma": "español"
+        }
+    }
+}
