@@ -93,9 +93,44 @@ const getContextType = (text) => {
     return 'general';
 };
 
+const isDateQuestion = (text) => {
+    const fechaPreguntas = [
+        'que dia es hoy',
+        'sabes que dia es hoy',
+        'que fecha es',
+        'que día es',
+        'fecha de hoy'
+    ];
+    return fechaPreguntas.some(pregunta => text.toLowerCase().includes(pregunta));
+};
+
+const obtenerFechaActual = () => {
+    const dias = ['domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado'];
+    const fecha = new Date();
+    const diaSemana = dias[fecha.getDay()];
+    const dia = fecha.getDate();
+    const mes = fecha.toLocaleString('es-ES', { month: 'long' });
+    const año = fecha.getFullYear();
+    
+    return `${diaSemana} ${dia} de ${mes} de ${año}`;
+};
+
 app.post('/chat', async (req, res) => {
     try {
         let { question, history = [] } = req.body;
+        
+        // Agregar verificación de pregunta de fecha
+        if (isDateQuestion(question)) {
+            const fechaActual = obtenerFechaActual();
+            const respuesta = `¡Hola! ¡Claro que sí! Hoy es ${fechaActual}. 📅 ¿Estás planeando una escapada a la naturaleza? ¡El Valle del Cocora es un destino impresionante que no querrás perderte! Déjame saber si puedo ayudarte con alguna recomendación o información sobre la zona. 🌳`;
+            
+            return res.status(200).json({
+                answer: respuesta,
+                history: [...history, { role: "model", parts: respuesta }],
+                source: 'ai'
+            });
+        }
+
         const contextType = getContextType(question);
         const { hasMatches, contextInfo } = findInJsonContext(question);
 
