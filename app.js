@@ -11,7 +11,7 @@ app.use(cors());
 
 const API_KEY_GEMINI = process.env.API_KEY_GEMINI;
 const genAI = new GoogleGenerativeAI(API_KEY_GEMINI);
-const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
 
 // Información base de rutas
 const RUTAS_BASE = `
@@ -224,6 +224,10 @@ app.post('/chat', async (req, res) => {
             PREGUNTA: "${question}"
             `;
         }
+
+        // Agregar soporte para el idioma de la pregunta
+        const language = req.body.language || 'es'; // Por defecto, español
+        prompt += `\n\nIDIOMA: ${language}`; // Añadir el idioma al prompt
 
         const chat = model.startChat({
             history: history.slice(-2).map(msg => ({
