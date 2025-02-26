@@ -11,7 +11,7 @@ app.use(cors());
 
 const API_KEY_GEMINI = process.env.API_KEY_GEMINI;
 const genAI = new GoogleGenerativeAI(API_KEY_GEMINI);
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 // Información base de rutas
 const RUTAS_BASE = `
